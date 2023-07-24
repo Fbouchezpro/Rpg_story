@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215984325336",
+    "project_id": "boardgame-story",
+    "storage_bucket": "boardgame-story.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215984325336:android:c836def64bb11dd66e4dad",
+        "android_client_info": {
+          "package_name": "com.example.boardgame_story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215984325336-h43ji1ndkcinr0sjoho1t496j5921j72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVPDur7qq1rX3Z4CRl-wfn5rWNTZaIkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215984325336-h43ji1ndkcinr0sjoho1t496j5921j72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
